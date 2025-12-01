@@ -47,25 +47,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvitkumarsourav&layout=compact&show_icons=true" 
-       alt="Top Languages" 
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvitkumarsourav&layout=compact&show_icons=true)
 
-<br/><br/><br/><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvitkumarsourav&show_icons=true)
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=suvitkumarsourav&show_icons=true" 
-       alt="GitHub Stats" 
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suvitkumarsourav)
 
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=suvitkumarsourav" 
-       alt="GitHub Streak" 
-  />
-</p>
