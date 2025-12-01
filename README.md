@@ -111,15 +111,18 @@ Landing page + learning content for a small learning platform.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=suvitkumarsourav&show_icons=true&theme=transparent" alt="GitHub Stats" />
+![Suvit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suvitkumarsourav&show_icons=true&theme=tokyonight)
+
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvitkumarsourav&layout=compact&theme=transparent" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suvitkumarsourav&layout=compact&theme=tokyonight)
+
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvitkumarsourav" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=suvitkumarsourav&theme=tokyonight)
+
 
 </div>
 
