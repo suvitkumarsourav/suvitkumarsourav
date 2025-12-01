@@ -121,7 +121,7 @@ Landing page + learning content for a small learning platform.
 
   <br/><br/>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=suvitkumarsourav&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=suvitkumarsourav&theme=tokyonight)
 
 
 </div>
